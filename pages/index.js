@@ -54,8 +54,7 @@ export default function Home() {
                 Hello, This is Manoj Shukla. I am a Fullstack Data Science 
                 Developer. I have done my Bachelor's from <a href="https://kiit.ac.in/" target="_blank">KIIT University</a>,
                  Bhubaneswar Odisha, and my master's from National College
-                  of Ireland  <a href="https://www.ncirl.ie/" target="_blank">(NCI)</a> Dublin, Ireland.
-                   I am currently working as a <a href="https://www.linkedin.com/in/manoj-shukla-77505782/" target="_blank">Senior developer</a> with <a href="https://www.sap.com/uk/index.html">SAP</a>(Bosch)... <a href="/about">read more</a>
+                  of Ireland  <a href="https://www.ncirl.ie/" target="_blank">(NCI)</a> Dublin, Ireland.<a href="/about">read more</a>
                 </p>
               </div>
               <div className="row">
